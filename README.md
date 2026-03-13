@@ -10,8 +10,9 @@
 
 ### About Me
 
+- 🚀 Built **AI Customer Support Agent** — deployed on Vercel + Render (team project)
 - 🔭 Currently building **AI Resume Skill Gap Detector** (NLP + FastAPI + React)
-- 🌱 Learning **LangChain · spaCy · FastAPI · React**
+- 🌱 Learning **spaCy · LangChain · scikit-learn**
 - 💡 Interested in **NLP · Generative AI · ML Data Analysis**
 - 📫 Open to **internships and placement opportunities**
 
@@ -43,7 +44,8 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🔍 [AI Resume Skill Gap Detector](https://github.com/DixithaBV) | Compares resume vs job description, finds missing skills | Python, spaCy, FastAPI, React |
+| 🤖 [AI Customer Support Agent](https://github.com/divya-vj/realtime-customer-support-agent) | Real-time AI support system with sentiment analysis & escalation — Live deployed | Python, FastAPI, React, TextBlob, PostgreSQL |
+| 🔍 AI Resume Skill Gap Detector | Compares resume vs job description, finds missing skills | Python, spaCy, FastAPI, React |
 | ☕ [Java Internship Tasks](https://github.com/DixithaBV/CODSOFT) | Number game, grade calculator, ATM interface | Java |
 
 ---
