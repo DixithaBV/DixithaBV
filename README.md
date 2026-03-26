@@ -1,58 +1,118 @@
-<h1 align="center">Hi, I'm Dixitha B V</h1>
-<h3 align="center">AIML Student | Python | NLP | Building AI Projects</h3>
+<h1 align="center">Hi, I'm Dixitha B V 👋</h1>
 
 <p align="center">
-  📍 Davangere, Karnataka, India &nbsp;|&nbsp;
-  🎓 Artificial Intelligence & Machine Learning
+  <b>AIML Engineering Student · Aspiring Data Analyst & AI Engineer</b><br>
+  <i>Turning data into decisions and models into real-world solutions</i>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/dixitha-bv-9467a9359">
+    <img src="https://img.shields.io/badge/LinkedIn-Dixitha%20BV-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dixithabv123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dixithabv123@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/DixithaBV">
+    <img src="https://img.shields.io/badge/GitHub-DixithaBV-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### About Me
+## 👩‍💻 About Me
 
-- 🚀 Built **AI Customer Support Agent** — deployed on Vercel + Render (team project)
-- 🔭 Currently building **AI Resume Skill Gap Detector** (NLP + FastAPI + React)
-- 🌱 Learning **spaCy · LangChain · scikit-learn**
-- 💡 Interested in **NLP · Generative AI · ML Data Analysis**
+- 🎓 6th Semester **Artificial Intelligence & Machine Learning** Engineering Student
+- 📍 Davangere, Karnataka, India
+- 💡 Passionate about **Data Analytics**, **Machine Learning**, and building **AI-powered applications**
+- 🤝 Open to collaborations on **AI · Data Analytics · SQL · Power BI** projects
 - 📫 Open to **internships and placement opportunities**
+- 🎯 Goal: Land a role as a **Data Analyst** or **AI/ML Engineer**
 
 ---
 
-### Tech Stack
+## 🛠 Tech Stack & Skills
 
-**Languages**
+**Languages & Databases**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-**AI / ML**
+**AI / Machine Learning / NLP**
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=flat-square&logo=pytorch&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-**Tools**
+**Data Analysis & Visualization**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+**Frameworks & Deployment**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white)
+![Hugging Face Spaces](https://img.shields.io/badge/HF%20Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Streamlit Cloud](https://img.shields.io/badge/Streamlit%20Cloud-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### Projects
+## 🚀 Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🤖 [AI Customer Support Agent](https://github.com/divya-vj/realtime-customer-support-agent) | Real-time AI support system with sentiment analysis & escalation — Live deployed | Python, FastAPI, React, TextBlob, PostgreSQL |
-| 🔍 AI Resume Skill Gap Detector | Compares resume vs job description, finds missing skills | Python, spaCy, FastAPI, React |
-| ☕ [Java Internship Tasks](https://github.com/DixithaBV/CODSOFT) | Number game, grade calculator, ATM interface | Java |
+| Project | Description | Tech Stack | Live Demo |
+|--------|-------------|------------|-----------|
+| 🤖 [Realtime Customer Support Agent](https://github.com/divya-vj/realtime-customer-support-agent) | Real-time AI support system with sentiment analysis & smart escalation | FastAPI · React · PostgreSQL · Claude API | [Frontend](https://realtime-support-agent-divya.vercel.app) · [API Docs](https://ai-support-backend-i04z.onrender.com/docs) |
+| 🦠 COVID-19 Dashboard | Interactive global COVID data explorer with country filters & KPIs | Python · Pandas · Plotly · Streamlit | 🔨 Coming soon |
+| 🛒 E-Commerce SQL Analysis | SQL-powered retail analytics — top products, revenue, customer trends | SQL · SQLite · Python · Streamlit | 🔨 Coming soon |
+| 🎬 Movie Recommendation System | Collaborative filtering recommender using cosine similarity | Python · Sklearn · Gradio · HF Spaces | 🔨 Coming soon |
 
 ---
 
-### GitHub Stats
+## 🌱 Currently Building
+
+- 🦠 **COVID-19 Interactive Dashboard** — Data Analytics · Streamlit Cloud
+- 🛒 **E-Commerce SQL Analysis App** — SQL · SQLite · Replit
+- 🎬 **Movie Recommendation System** — ML · Gradio · Hugging Face Spaces
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DixithaBV&show_icons=true&theme=tokyonight" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DixithaBV&layout=compact&theme=tokyonight" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DixithaBV&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DixithaBV&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DixithaBV&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to collaborating on interesting AI, data, or analytics projects. Feel free to reach out!
+
+<p align="center">
+  <a href="https://linkedin.com/in/dixitha-bv-9467a9359">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dixithabv123@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Data is the new oil — and I'm here to refine it." 🔥</i>
 </p>
