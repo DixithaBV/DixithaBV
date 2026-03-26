@@ -61,6 +61,7 @@
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white)
 ![Hugging Face Spaces](https://img.shields.io/badge/HF%20Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Replit](https://img.shields.io/badge/Replit-667881?style=flat-square&logo=replit&logoColor=white)
 ![Streamlit Cloud](https://img.shields.io/badge/Streamlit%20Cloud-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -70,7 +71,8 @@
 
 | Project | Description | Tech Stack | Live Demo |
 |--------|-------------|------------|-----------|
-| 🤖 [Realtime Customer Support Agent](https://github.com/divya-vj/realtime-customer-support-agent) | Real-time AI support system with sentiment analysis & smart escalation | FastAPI · React · PostgreSQL · Claude API | [Frontend](https://realtime-support-agent-divya.vercel.app) · [API Docs](https://ai-support-backend-i04z.onrender.com/docs) |
+| 🤖 [Realtime Customer Support Agent](https://github.com/divya-vj/realtime-customer-support-agent) | Real-time AI support system with sentiment analysis & smart escalation *(Team project)* | FastAPI · React · PostgreSQL · Claude API | [Frontend](https://realtime-support-agent-divya.vercel.app) · [API Docs](https://ai-support-backend-i04z.onrender.com/docs) |
+| 🔍 Resume Skill Gap Analyzer | Compares your resume against a job description and identifies missing skills — built solo | Python · spaCy · FastAPI · React · Replit | [Live App](https://resume-skill-gap-analyzer--dixithabv123.replit.app) |
 | 🦠 COVID-19 Dashboard | Interactive global COVID data explorer with country filters & KPIs | Python · Pandas · Plotly · Streamlit | 🔨 Coming soon |
 | 🛒 E-Commerce SQL Analysis | SQL-powered retail analytics — top products, revenue, customer trends | SQL · SQLite · Python · Streamlit | 🔨 Coming soon |
 | 🎬 Movie Recommendation System | Collaborative filtering recommender using cosine similarity | Python · Sklearn · Gradio · HF Spaces | 🔨 Coming soon |
