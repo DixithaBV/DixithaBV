@@ -71,9 +71,9 @@
 
 | Project | Description | Tech Stack | Live Demo |
 |--------|-------------|------------|-----------|
-| 🤖 [Realtime Customer Support Agent](https://github.com/divya-vj/realtime-customer-support-agent) | Real-time AI support system with sentiment analysis & smart escalation *(Team project)* | FastAPI · React · PostgreSQL · Claude API | [Frontend](https://realtime-support-agent-divya.vercel.app) · [API Docs](https://ai-support-backend-i04z.onrender.com/docs) |
-| 🔍 Resume Skill Gap Analyzer | Compares your resume against a job description and identifies missing skills — built solo | Python · spaCy · FastAPI · React · Replit | [Live App](https://resume-skill-gap-analyzer--dixithabv123.replit.app) |
-| 🦠 COVID-19 Dashboard | Interactive global COVID data explorer with country filters & KPIs | Python · Pandas · Plotly · Streamlit | (https://dixitha-covid-dashboard.streamlit.app) |
+| 🤖 [Realtime Customer Support Agent](https://github.com/DixithaBV/realtime-customer-support-agent) | Real-time AI support system with sentiment analysis & smart escalation *(Team project)* | FastAPI · React · PostgreSQL · Claude API | [Frontend](https://realtime-support-agent-divya.vercel.app) · [API Docs](https://ai-support-backend-i04z.onrender.com/docs) |
+| 🔍 [Resume Skill Gap Analyzer](https://github.com/DixithaBV/resume-skill-gap-analyzer) | Compares resume against job description and finds missing skills — built solo | Python · spaCy · FastAPI · React | [Live App](https://resume-skill-gap-analyzer--dixithabv123.replit.app) |
+| 🦠 [COVID-19 Dashboard](https://github.com/DixithaBV/covid-19-dashboard) | Interactive global COVID data explorer with country filters, KPIs & 5 charts | Python · Pandas · Plotly · Streamlit | [Live App](https://dixitha-covid-dashboard.streamlit.app) |
 | 🛒 E-Commerce SQL Analysis | SQL-powered retail analytics — top products, revenue, customer trends | SQL · SQLite · Python · Streamlit | 🔨 Coming soon |
 | 🎬 Movie Recommendation System | Collaborative filtering recommender using cosine similarity | Python · Sklearn · Gradio · HF Spaces | 🔨 Coming soon |
 
@@ -81,7 +81,6 @@
 
 ## 🌱 Currently Building
 
-- 🦠 **COVID-19 Interactive Dashboard** — Data Analytics · Streamlit Cloud
 - 🛒 **E-Commerce SQL Analysis App** — SQL · SQLite · Replit
 - 🎬 **Movie Recommendation System** — ML · Gradio · Hugging Face Spaces
 
