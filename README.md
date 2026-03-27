@@ -73,7 +73,7 @@
 |--------|-------------|------------|-----------|
 | 🤖 [Realtime Customer Support Agent](https://github.com/divya-vj/realtime-customer-support-agent) | Real-time AI support system with sentiment analysis & smart escalation *(Team project)* | FastAPI · React · PostgreSQL · Claude API | [Frontend](https://realtime-support-agent-divya.vercel.app) · [API Docs](https://ai-support-backend-i04z.onrender.com/docs) |
 | 🔍 Resume Skill Gap Analyzer | Compares your resume against a job description and identifies missing skills — built solo | Python · spaCy · FastAPI · React · Replit | [Live App](https://resume-skill-gap-analyzer--dixithabv123.replit.app) |
-| 🦠 COVID-19 Dashboard | Interactive global COVID data explorer with country filters & KPIs | Python · Pandas · Plotly · Streamlit | 🔨 Coming soon |
+| 🦠 COVID-19 Dashboard | Interactive global COVID data explorer with country filters & KPIs | Python · Pandas · Plotly · Streamlit | (https://dixitha-covid-dashboard.streamlit.app) |
 | 🛒 E-Commerce SQL Analysis | SQL-powered retail analytics — top products, revenue, customer trends | SQL · SQLite · Python · Streamlit | 🔨 Coming soon |
 | 🎬 Movie Recommendation System | Collaborative filtering recommender using cosine similarity | Python · Sklearn · Gradio · HF Spaces | 🔨 Coming soon |
 
