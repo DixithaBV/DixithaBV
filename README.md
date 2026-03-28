@@ -74,6 +74,7 @@
 | 🤖 [Realtime Customer Support Agent](https://github.com/DixithaBV/realtime-customer-support-agent) | Real-time AI support system with sentiment analysis & smart escalation *(Team project)* | FastAPI · React · PostgreSQL · Claude API | [Frontend](https://realtime-support-agent-divya.vercel.app) · [API Docs](https://ai-support-backend-i04z.onrender.com/docs) |
 | 🔍 [Resume Skill Gap Analyzer](https://github.com/DixithaBV/resume-skill-gap-analyzer) | Compares resume against job description and finds missing skills — built solo | Python · spaCy · FastAPI · React | [Live App](https://resume-skill-gap-analyzer--dixithabv123.replit.app) |
 | 🦠 [COVID-19 Dashboard](https://github.com/DixithaBV/covid-19-dashboard) | Interactive global COVID data explorer with country filters, KPIs & 5 charts | Python · Pandas · Plotly · Streamlit | [Live App](https://dixitha-covid-dashboard.streamlit.app) |
+| 📉 [Customer Churn Intelligence System](https://github.com/DixithaBV/customer-churn-system) | End-to-end ML pipeline: SQLite → XGBoost + SHAP → FastAPI → Streamlit dashboard | Python · XGBoost · FastAPI · SQLite · Streamlit | [Live App](https://dixitha-churn-system.streamlit.app) · [API](https://customer-churn-api-fsdd.onrender.com/docs) |
 | 🛒 E-Commerce SQL Analysis | SQL-powered retail analytics — top products, revenue, customer trends | SQL · SQLite · Python · Streamlit | 🔨 Coming soon |
 | 🎬 Movie Recommendation System | Collaborative filtering recommender using cosine similarity | Python · Sklearn · Gradio · HF Spaces | 🔨 Coming soon |
 
