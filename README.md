@@ -45,6 +45,7 @@
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=flat-square&logo=pytorch&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 **Data Analysis & Visualization**
 
@@ -75,6 +76,7 @@
 | 🔍 [Resume Skill Gap Analyzer](https://github.com/DixithaBV/resume-skill-gap-analyzer) | Compares resume against job description and finds missing skills — built solo | Python · spaCy · FastAPI · React | [Live App](https://resume-skill-gap-analyzer--dixithabv123.replit.app) |
 | 🦠 [COVID-19 Dashboard](https://github.com/DixithaBV/covid-19-dashboard) | Interactive global COVID data explorer with country filters, KPIs & 5 charts | Python · Pandas · Plotly · Streamlit | [Live App](https://dixitha-covid-dashboard.streamlit.app) |
 | 📉 [Customer Churn Intelligence System](https://github.com/DixithaBV/customer-churn-system) | End-to-end ML pipeline: SQLite → XGBoost + SHAP → FastAPI → Streamlit dashboard | Python · XGBoost · FastAPI · SQLite · Streamlit | [Live App](https://dixitha-churn-system.streamlit.app) · [API](https://customer-churn-api-fsdd.onrender.com/docs) |
+| 📚 [AI Personalised Study Planner](https://github.com/DixithaBV/ai-study-planner) | Upload syllabus PDF → RAG pipeline analyses content → Groq Llama-3.1 generates day-by-day study plan | Python · LangChain · ChromaDB · Groq · Streamlit | [Live App](https://dixithabv-ai-study-planner.hf.space) |
 | 🛒 E-Commerce SQL Analysis | SQL-powered retail analytics — top products, revenue, customer trends | SQL · SQLite · Python · Streamlit | 🔨 Coming soon |
 | 🎬 Movie Recommendation System | Collaborative filtering recommender using cosine similarity | Python · Sklearn · Gradio · HF Spaces | 🔨 Coming soon |
 
